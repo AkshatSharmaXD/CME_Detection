@@ -79,3 +79,4 @@ frontend/.vite/
 # *.md
 # !README.md
 
+PROJECT_DOCUMENTATION/*
