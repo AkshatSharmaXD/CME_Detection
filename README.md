@@ -1,6 +1,6 @@
 # CME Detection & Space Weather Monitoring System
 
-**Made for Team Digi Shakti - Smart India Hackathon (SIH)**
+**Made for Team Binary Duo - IBM BOB 2.0 2026 HACKATHON**
 
 A comprehensive real-time space weather monitoring and Coronal Mass Ejection (CME) detection system with predictive analytics. This system provides real-time monitoring, detection, and forecasting of space weather events including CMEs, geomagnetic storms, and solar activity.
 
@@ -272,23 +272,20 @@ Contributions are welcome! Please follow these steps:
 
 ## 📝 License
 
-This project is developed for Smart India Hackathon (SIH) presentation.
+This project is developed for IBM BOB 2.0 Hackathon presentation.
 
 ## 👥 Development Team
 
-**Made for Team Digi Shakti - Smart India Hackathon (SIH)**
+**Made for Team Binary Duo - IBM BOB 2.0 2026 HACKATHON**
 
 **End to end developed and produced by me as Tech System Lead & Full Stack Architect**
 
-### 🙏 Special Thanks to Team Members:
+### Team Members:
 
 - **Akshat Sharma**
-- **Mayank Saini**
 - **Deepak Singh**
-- **Garima**
-- **Lily**
 
-This project represents a complete full-stack solution for space weather monitoring and CME detection, developed from concept to deployment for the Smart India Hackathon 2025.
+This project represents a complete full-stack solution for space weather monitoring and CME detection, developed from concept to deployment for the IBM BOB 2.0 Hackathon.
 
 ## 🙏 Acknowledgments
 
